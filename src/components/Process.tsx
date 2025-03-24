@@ -39,7 +39,7 @@ const Process: React.FC = () => {
   ];
 
   return (
-    <section id="processo" className="section-padding bg-secondary text-white">
+    <section id="processo" className="section-padding bg-[#111] text-white">
       <div className="container mx-auto">
         <SectionTitle
           title="Como Trabalhamos"

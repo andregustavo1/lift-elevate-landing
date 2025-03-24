@@ -40,7 +40,7 @@ const About: React.FC = () => {
 
           <div className="rounded-2xl overflow-hidden shadow-xl appear animate-fade-in-left">
             <img 
-              src="https://images.unsplash.com/photo-1505466607153-5b862f247ff2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1973&q=80" 
+              src="https://img.freepik.com/free-photo/close-up-warehouse-view_23-2148923142.jpg?t=st=1742836926~exp=1742840526~hmac=be14be21dd285952bad3c5ee22ae5b4da58123b01925d015e2d4877567039c23&w=996" 
               alt="Equipamentos Lift Transportes em operação" 
               className="w-full h-full object-cover aspect-[4/3]"
             />

@@ -3,7 +3,7 @@ import React from "react";
 
 const Cta: React.FC = () => {
   return (
-    <section className="py-20 px-6 md:px-12 lg:px-20 bg-neutral-800 relative overflow-hidden">
+    <section className="py-20 px-6 md:px-12 lg:px-20 bg-[#111] relative overflow-hidden">
       <div 
         className="absolute inset-0 z-0 opacity-30"
         style={{
