@@ -31,7 +31,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex items-center">
           <a href="#" className="text-2xl font-bold text-secondary transition-colors">
-            LIFT <span className="text-primary">TRANSPORTES</span>
+            LIFT <span className="text-primary">EMPILHADEIRAS</span>
           </a>
         </div>
 
