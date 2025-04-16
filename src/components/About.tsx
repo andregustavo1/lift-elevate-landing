@@ -17,11 +17,11 @@ const About: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="appear animate-fade-in-right">
             <SectionTitle
-              title="Sobre a LIFT TRANSPORTES"
+              title="Sobre a LIFT EMPILHADEIRAS"
               centered={false}
             />
             <p className="text-lg text-neutral-800/80 mb-8">
-              A LIFT TRANSPORTES é especializada na venda e locação de equipamentos para transporte e 
+              A LIFT EMPILHADEIRAS é especializada na venda e locação de equipamentos para transporte e 
               elevação de cargas, com foco em oferecer soluções práticas e seguras para o setor logístico. 
               Nossos equipamentos de alta qualidade são projetados para atender às necessidades específicas 
               de cada cliente, garantindo produtividade e segurança em todas as operações.
@@ -41,7 +41,7 @@ const About: React.FC = () => {
           <div className="rounded-2xl overflow-hidden shadow-xl appear animate-fade-in-left">
             <img 
               src="https://img.freepik.com/free-photo/close-up-warehouse-view_23-2148923142.jpg?t=st=1742836926~exp=1742840526~hmac=be14be21dd285952bad3c5ee22ae5b4da58123b01925d015e2d4877567039c23&w=996" 
-              alt="Equipamentos Lift Transportes em operação" 
+              alt="Equipamentos Lift Empilhadeiras em operação" 
               className="w-full h-full object-cover aspect-[4/3]"
             />
           </div>

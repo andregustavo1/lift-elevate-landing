@@ -94,7 +94,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-white/10 mt-12 pt-8 text-center">
           <p className="text-white/50">
-            © {new Date().getFullYear()} LIFT TRANSPORTES. Todos os direitos reservados.
+            © {new Date().getFullYear()} LIFT Empilhadeiras. Todos os direitos reservados.
           </p>
         </div>
       </div>

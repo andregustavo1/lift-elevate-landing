@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Localização da LIFT TRANSPORTES"
+              title="Localização da LIFT Empilhadeiras"
             ></iframe>
           </div>
         </div>
